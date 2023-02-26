@@ -68,4 +68,4 @@ def isOpen(user_id: int):
     else:
         return False
 
-client.run("MTA3OTI3NjQ4Njk2MTM5Nzg3MA.G-o2wK.2rcL-2EdNgRlgQlAcN3XQJi-US_K62lsgXWqc0")
+client.run("")
